@@ -1,0 +1,14 @@
+Aim: The project aims at displaying the contents of a resource grid of an LTE network
+consistent with their positions in radio frame. The contents of the resource grid include
+various signals and channels present in the physical layer of the network such as PSS:
+Primary Synchronization signal, SSS: Secondary Synchronization signal, RS Reference
+signal, PBCH: Physical Broadcast channel, PDCCH: Physical Downlink control channel,
+PCFICH: Physical Control Format Indicator Channel, PHICH: Physical Hybrid ARQ
+indicator channel and PDSCH: Physical Downlink shared channel.
+
+
+Objectives: The objectives include addressing the significance of simulations in
+implementation of Real time cellular networks, understanding LTE physical layer and
+placement of various signals and channels in resource grid. Our objectives also include
+creating a user interface, programming positions of different channels and signals in a radio
+frame accurately.
